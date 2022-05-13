@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![picture alt](Grinch_Monet.jpg "Grinchy")
+![picture alt](Grinch_Monet.jpg "My Grinch Admiring some Monet")
 
 ## About Me ##
 My name is Kristine Christensen. I am a lifelong learner who enjoys the challenge of learning new things. I like to weld, create art, and travel. I am also interested in learning more about coding and am looking forward to being able to transfer what I learn in this class into my classroom instruction. 
