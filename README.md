@@ -9,8 +9,8 @@ I have some experience with C++ and Java (ugh) but I'm very rusty and out of pra
 
 ## Career Goals ##
 I am pretty set in my career and do not anticipate changing anything but you never know. Part of my career goals is to keep learning so I would include the following in my goals:
-* Complete the coursework towards attaining my MA in Mass Communications with an emphasis in Web Design from University of Florida
-* Complete my coursework in cybersecurity at Georgia Tech. 
-    * Pass the Security+ Exam
-    * Study for the Cybersecurity Maturity Model Certification
-* Complete my Emergency Management Certificate
+1. Complete the coursework towards attaining my MA in Mass Communications with an emphasis in Web Design from University of Florida
+2. Complete my coursework in cybersecurity at Georgia Tech. 
+    1. Pass the Security+ Exam
+    2. Study for the Cybersecurity Maturity Model Certification
+3. Complete my Emergency Management Certificate
